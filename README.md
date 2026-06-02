@@ -174,7 +174,7 @@ SafeHouse/
 
 | Papel | Responsável |
 |------|------------|
-| Desenvolvimento | [Seus Nomes] |
+| Desenvolvimento | [Seus Nomes] | [Seus Nomes] |
 | Hardware | [Seus Nomes] |
 | Documentação | [Seus Nomes] |
 | Apresentação | UniFECAF - [Data] |
