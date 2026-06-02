@@ -84,7 +84,7 @@ SafeHouse é um **sistema de segurança residencial inteligente** que monitora e
 
 ```bash
 # Clone ou baixe o repositório
-git clone <seu_repositorio>
+git clone https://github.com/K1NSLEY/SafeHouse
 cd SafeHouse
 ```
 
@@ -174,10 +174,10 @@ SafeHouse/
 
 | Papel | Responsável |
 |------|------------|
-| Desenvolvimento | [Seus Nomes] | [Seus Nomes] |
-| Hardware | [Seus Nomes] |
-| Documentação | [Seus Nomes] |
-| Apresentação | UniFECAF - [Data] |
+| Desenvolvimento | [@Kinsley Amadi](https://github.com/K1NSLEY), [@Eduardo Lima](https://github.com/inripai), [@Thiago Fisher](https://github.com/thiago-fischer), [@Kaio Andrade](https://github.com/Kaio-Andrade) e [@Gabriel Orides](wa.me/+5511950931930) | 
+| Hardware | [@Kinsley Amadi](https://github.com/K1NSLEY) |
+| Documentação | [@Kinsley Amadi](https://github.com/K1NSLEY) |
+| Apresentação | UniFECAF - 13/06/2026 |
 
 ---
 
