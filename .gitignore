@@ -1,0 +1,19 @@
+# Credenciais e Configuração Sensível
+config.h
+
+# Arduino IDE
+build/
+*.bin
+*.elf
+*.o
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

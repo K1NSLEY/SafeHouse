@@ -1,0 +1,45 @@
+// ============================================
+// SafeHouse - Arquivo de Configuração (EXEMPLO)
+// ============================================
+// Use este arquivo como template!
+// 1. Copie este arquivo e renomeie para config.h
+// 2. Altere os valores com suas credenciais
+// 3. NÃO faça commit de config.h (adicione ao .gitignore)
+// ============================================
+
+#ifndef CONFIG_H
+#define CONFIG_H
+
+// --- CREDENCIAIS WI-FI ---
+#define WLAN_SSID       "SEU_SSID_AQUI"
+#define WLAN_PASS       "SUA_SENHA_AQUI"
+
+// --- CONFIGURAÇÕES ADAFRUIT IO ---
+#define AIO_SERVER      "io.adafruit.com"
+#define AIO_SERVERPORT  1883
+#define ADAFRUIT_AIO_USERNAME "seu_username"
+#define ADAFRUIT_AIO_KEY      "sua_chave_api"
+
+// --- DEFINIÇÃO DOS PINOS ---
+#define PINO_LDR_LUZ       34
+#define PINO_LDR_IR        35
+#define PINO_TRIG          4
+#define PINO_ECHO          16
+#define PINO_RFID_SS       5
+#define PINO_RFID_RST      22
+#define PINO_BUZZER        21
+#define PINO_RELE          15
+#define PINO_BOTAO         27
+
+// --- CONSTANTES E LIMIARES ---
+#define LIMIAR_LUZ                 2000
+#define DISTANCIA_MAX_ALARME       100   // cm
+#define TOLERANCIA_DISTANCIA       10    // Margem de variação em cm
+
+// --- CARTÃO RFID AUTORIZADO ---
+#define RFID_CARD_UID_0 0x01
+#define RFID_CARD_UID_1 0x02
+#define RFID_CARD_UID_2 0x03
+#define RFID_CARD_UID_3 0x04
+
+#endif
